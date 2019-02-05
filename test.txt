@@ -6,3 +6,4 @@ sdf
 
 done
 test
+check
