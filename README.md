@@ -7,6 +7,9 @@
 3. Dristi Marasini
 4. Sirisha Devineni
 
+# Team Slide
+[!teamslide](https://github.com/karunb09/WS_SSH_TEST/blob/master/Capture.PNG?raw=true)
+
 ## softwares needed
 
 1. PuttyGen (download here http://www.puttygen.com/)
