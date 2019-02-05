@@ -5,7 +5,7 @@
 1. Karun Bourishetty
 2. Aawaj Joshi
 3. Dristi Marasini
-4 Sirisha Devineni
+4. Sirisha Devineni
 
 ## softwares needed
 
@@ -27,6 +27,15 @@ https://docs.google.com/presentation/d/1RRZ3ZxW62gY6JiTtrdh-XzICVqXQvs4f5gHKWr3D
 6. when pushing the repo into the cloud or while pulling the repo, in the dialogue box we can see an input field called putty key or load puttyKey(browse through the fileexplorer and select the key which you have created).
 7. After we click on, we get a dialogue box, where it asks for the passphrase, enter the same where you filled in puttygen.
 8. All done .. !!!! , the server will not ask for login details instead a passphrase is been asked.
+
+#Incremental commits
+
+1. The main purpose of using source control system is to keep track of changes.
+In git these are called commits.
+
+2. We should always commit early and often.
+
+3. In commit process, we should include useful commit messages.
 
 # references
 
