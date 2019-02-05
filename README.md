@@ -8,7 +8,7 @@
 4. Sirisha Devineni
 
 # Team Slide
-[!teamslide](https://github.com/karunb09/WS_SSH_TEST/blob/master/Capture.PNG?raw=true)
+![teamslide](https://github.com/karunb09/WS_SSH_TEST/blob/master/Capture.PNG)
 
 ## softwares needed
 
@@ -31,7 +31,7 @@ https://docs.google.com/presentation/d/1RRZ3ZxW62gY6JiTtrdh-XzICVqXQvs4f5gHKWr3D
 7. After we click on, we get a dialogue box, where it asks for the passphrase, enter the same where you filled in puttygen.
 8. All done .. !!!! , the server will not ask for login details instead a passphrase is been asked.
 
-#Incremental commits
+# Incremental commits
 
 1. The main purpose of using source control system is to keep track of changes.
 In git these are called commits.
