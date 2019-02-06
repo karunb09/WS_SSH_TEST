@@ -83,10 +83,10 @@ In git these are called commits.
 
 # References
 
-https://help.github.com/articles/connecting-to-github-with-ssh/
-https://imagej.net/Git_Conflicts
-https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts
-https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd
+https://help.github.com/articles/connecting-to-github-with-ssh/  
+https://imagej.net/Git_Conflicts  
+https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts  
+https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd  
 
 
 
