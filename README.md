@@ -26,8 +26,6 @@ https://github.com/karunb09/WS_SSH_TEST
 
 https://docs.google.com/presentation/d/1RRZ3ZxW62gY6JiTtrdh-XzICVqXQvs4f5gHKWr3DToQ/edit?usp=sharing
 
-# Account in github
-
 ---
 
 # Steps to follow in order to set up SSH.
@@ -83,9 +81,17 @@ In git these are called commits.
 
 3. In commit process, we should include useful commit messages.
 
-# references
+# References
 
 https://help.github.com/articles/connecting-to-github-with-ssh/
+https://imagej.net/Git_Conflicts
+https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts
+https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd
+
+
+
+
+
 
 
 
